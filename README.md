@@ -8,8 +8,8 @@ Repositori ini berisi solusi untuk tugas kelompok minggu kedua mata kuliah Algor
 
 | Nama Lengkap        | Peran / Kontribusi                                |
 | ------------------- |-------------------------------------------------- |
-| Rafi Putra Effendi  | [Contoh: Struktur repo, kode Soal #2 & #3]        |
-| M Akmal Mursalim    | [Contoh: Pseudocode, kode Soal #5]                |
+| Rafi Putra Effendi  | Membuat Repo        |
+| M Akmal Mursalim    |                 |
 
 ---
 
