@@ -1,6 +1,6 @@
 # Tugas Pemrograman Minggu 2 - Algoritma & Pemrograman 1
 
-Repositori ini berisi solusi untuk tugas kelompok minggu kedua mata kuliah Algoritma dan Pemrograman 1 (Kode Matkul: [misal: CSL-101]). Tugas ini mencakup implementasi program sederhana menggunakan bahasa Go.
+Repositori ini berisi solusi untuk tugas kelompok minggu kedua mata kuliah Algoritma dan Pemrograman 1 (Kode Matkul: CAK1BAB3). Tugas ini mencakup implementasi program sederhana menggunakan bahasa Go dan Pseudocode.
 
 ---
 
