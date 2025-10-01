@@ -8,8 +8,8 @@ Repositori ini berisi solusi untuk tugas kelompok minggu kedua mata kuliah Algor
 
 | Nama Lengkap        | Peran / Kontribusi                                |
 | ------------------- |-------------------------------------------------- |
-| Rafi Putra Effendi  | Membuat Repo        |
-| M Akmal Mursalim    |                 |
+| Rafi Putra Effendi  | Membuat Repo, Membuat Program Golang untuk soal-01-lingkaran, dan Membuat Program Pseudocode untuk soal-01-fungsi, soal-03-fungsi, dan soal-05-toko        |
+| M Akmal Mursalim    | Membuat Program Golang untuk soal-03-fungsi dan soal-05-toko                |
 
 ---
 
