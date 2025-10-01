@@ -1,13 +1,13 @@
 PROGRAM lingkaran
 kamus
-   r, luas, keliling: float
+   r, luas, keliling: bilangan bulat
 
 algoritma
-input (r)
+   input (r)
 
-luas = pi*r*r
-keliling = 2*pi*r
+   luas = π*r*r
+   keliling = 2*π*r
 
-print(keliling)
-print(luas)
+   print(keliling)
+   print(luas)
 endprogram
